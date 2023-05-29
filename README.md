@@ -4,6 +4,7 @@
 O projeto final de frontend, consiste que o usuário tenha acesso a uma listagem de filmes mais populares do dia e consiga encontrar novos filmes ao clicar em um item na listagem.
 O acesso da listagem do filme só foi realizada através do uso da API [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction). 
 
+[Clique aqui](https://movie-fl25cjg1a-vieirameloroberta.vercel.app) para acessar o deploy do projeto
 
 ## 🚀 Tecnologias utilizadas
 - React js
